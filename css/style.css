@@ -165,25 +165,21 @@ body {
   
   
  .picture {
-     /*border: 2px solid red;*/
      width: 100%;
      padding-top: 85px;
  }
  .school {
     background-image: url(../img/gobind.jpg);
-    /*border: 2px solid yellow;*/
     height: 505px;
     width: 100%;
   }
   .parent {
-    /*border: 2px solid green;*/
     background-color: #9999ff;
     height: 1161px;
     width: 100%;
     margin-top: -48px;
 }
   .about-gobind {
-    /*border: 2px solid blue;*/
     height: 437px;
     width: 43%;
     float: left;
@@ -196,8 +192,6 @@ body {
     height: 250px;
     padding-top: 105px;
   }
-/*    padding-left: -8px;*/
-/*}*/
 
 .center {
     text-align: center;
@@ -220,14 +214,12 @@ body {
     border: 2px solid;
     height: 819px;
     width: 100%;
-    /*position: relative;*/
 }
 .column-root
 {
     height: 83%;
     width: 99%;
     border: 3px solid yellow;
-    /*position: relative;*/
     margin-top: 67px;
 }
 .column {
